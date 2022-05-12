@@ -1,0 +1,14 @@
+a {
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a:link {
+    color: rgb(0, 0, 0);
+} 
+a:visited {
+    color: rgb(16, 57, 238);
+}
+a:hover {
+    color: black;
+    text-decoration: underline;
+}
